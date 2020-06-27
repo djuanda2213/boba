@@ -73,7 +73,7 @@ echo "=========================\n";
 echo "Borong Barang Slash\n";
 echo "Created by @ikballnh\n";
 echo "=========================\n";
-echo "Masukan ID: ";
+echo "20741: ";
 $id = trim(fgets(STDIN));
 $getno = getno($id);
 //echo "$getno";
